@@ -1,0 +1,3 @@
+# Project exclude paths
+/string-api/target/
+/string-impl/target/
